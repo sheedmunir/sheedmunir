@@ -16,7 +16,7 @@
 
 ![sheedmunir Codewars badge](https://www.codewars.com/users/sheedmunir/badges/large)
 
-(https://www.codewars.com/users/sheedmunir)
+[View my kata](https://www.codewars.com/users/sheedmunir)
 
 ### 📘 Exercism
 Practicing idiomatic code across multiple languages — [view my solutions](https://github.com/sheedmunir/Exercism-solutions)
