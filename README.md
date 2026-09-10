@@ -13,6 +13,17 @@
 
 ### 🥋 Codewars
 [![sheedmunir Codewars badge](https://www.codewars.com/users/sheedmunir/badges/large)](https://www.codewars.com/users/sheedmunir)
+
+### 🥋 Codewars
+[
+
+![sheedmunir Codewars badge](https://www.codewars.com/users/sheedmunir/badges/large)
+
+](https://www.codewars.com/users/sheedmunir)
+
+### 📘 Exercism
+Practicing idiomatic code across multiple languages — [view my solutions](https://github.com/sheedmunir/Exercism-solutions)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sheedmunir&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sheedmunir&theme=dark&hide_border=false)<br/>
