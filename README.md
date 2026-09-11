@@ -18,7 +18,7 @@
 
 
 
-[Follow me on Codewares](https://www.codewars.com/users/sheedmunir)
+[Let's solve together — join me on Codewars](https://www.codewars.com/users/sheedmunir)
 
 
 [View my kata-solutions](https://www.codewars.com/users/sheedmunir)
