@@ -13,7 +13,7 @@ CS & CE student · Dar es Salaam, Tanzania. Linux daily driver.
 
 ## 📊 Top languages
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheedmunir&theme=transparent&hide_border=true&layout=compact)
+![Top langs](https://github-readme-stats.shion.dev/api/top-langs/?username=sheedmunir&theme=transparent&hide_border=true&layout=compact)
 
 ## 🔗 Links
 
