@@ -1,6 +1,6 @@
 # Rashid Munir
 
-CS & CE student · Dar es Salaam, Tanzania. Linux daily driver.
+CS & CE student . Linux daily driver.
 
 - Build small things that have to run on real hardware
 - Work through C++, JavaScript, and HTML/CSS
