@@ -17,7 +17,7 @@ CS & CE student . Linux daily driver.
 
 ## 🔗 Links
 
-- Portfolio: _(comming soon)_
+- Portfolio: [sheedmunir](https://sheedmunir.vercel.app)
 - Email: sheedmunir@gmail.com
 
 ---
